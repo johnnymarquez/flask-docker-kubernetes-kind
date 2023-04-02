@@ -47,7 +47,7 @@ Note: Replace my-registry with your Docker registry name.
 7. To run the application using Docker, execute the following command:
 
 ```
-docker run -p 5000:5000 my-registry/my-flask-app
+docker run -p 5001:5000 my-registry/my-flask-app
 ```
 
 Note: Replace my-registry with your Docker registry name.
