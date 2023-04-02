@@ -73,7 +73,7 @@ As an alternative, you can push the image to your personal docker registry.
 kubectl apply -f manifest.yaml
 ```
 
-The manifest contain the deployment configuration, service and ingress. Verify you have all the resources by running>
+The manifest contain the deployment configuration, service and ingress. Verify you have all the resources by running:
 
 ```
 kubectl get all
